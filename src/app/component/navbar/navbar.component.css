@@ -2,12 +2,12 @@
     background-color: #ffc300;
     justify-content: center;
     align-items: center;
-    height: 20%;
+    height: 10%;
 }
 
 .botones {
     margin-left: 11em;
-    margin-top: -4em;
+    margin-top: -5em;
 }
 
 span {
@@ -20,6 +20,7 @@ span {
 button {
     margin-right: 1.5em;
     padding-left: 0.75em;
+    padding-top: 1.5em;
     text-shadow: 1px 1px 3px black;
     font-family: 'Roboto', sans-serif;
     font-size: 26px;
